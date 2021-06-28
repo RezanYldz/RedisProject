@@ -1,0 +1,17 @@
+C:\Users\Rezan Yıldız\source\repos\RedisProject\RedisProject.Business\bin\Debug\net5.0\RedisProject.Business.deps.json
+C:\Users\Rezan Yıldız\source\repos\RedisProject\RedisProject.Business\bin\Debug\net5.0\RedisProject.Business.dll
+C:\Users\Rezan Yıldız\source\repos\RedisProject\RedisProject.Business\bin\Debug\net5.0\ref\RedisProject.Business.dll
+C:\Users\Rezan Yıldız\source\repos\RedisProject\RedisProject.Business\bin\Debug\net5.0\RedisProject.Business.pdb
+C:\Users\Rezan Yıldız\source\repos\RedisProject\RedisProject.Business\bin\Debug\net5.0\RedisProject.DAL.dll
+C:\Users\Rezan Yıldız\source\repos\RedisProject\RedisProject.Business\bin\Debug\net5.0\RedisProject.Entities.dll
+C:\Users\Rezan Yıldız\source\repos\RedisProject\RedisProject.Business\bin\Debug\net5.0\RedisProject.DAL.pdb
+C:\Users\Rezan Yıldız\source\repos\RedisProject\RedisProject.Business\bin\Debug\net5.0\RedisProject.Entities.pdb
+C:\Users\Rezan Yıldız\source\repos\RedisProject\RedisProject.Business\obj\Debug\net5.0\RedisProject.Business.csprojAssemblyReference.cache
+C:\Users\Rezan Yıldız\source\repos\RedisProject\RedisProject.Business\obj\Debug\net5.0\RedisProject.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rezan Yıldız\source\repos\RedisProject\RedisProject.Business\obj\Debug\net5.0\RedisProject.Business.AssemblyInfoInputs.cache
+C:\Users\Rezan Yıldız\source\repos\RedisProject\RedisProject.Business\obj\Debug\net5.0\RedisProject.Business.AssemblyInfo.cs
+C:\Users\Rezan Yıldız\source\repos\RedisProject\RedisProject.Business\obj\Debug\net5.0\RedisProject.Business.csproj.CoreCompileInputs.cache
+C:\Users\Rezan Yıldız\source\repos\RedisProject\RedisProject.Business\obj\Debug\net5.0\RedisProject.Business.csproj.CopyComplete
+C:\Users\Rezan Yıldız\source\repos\RedisProject\RedisProject.Business\obj\Debug\net5.0\RedisProject.Business.dll
+C:\Users\Rezan Yıldız\source\repos\RedisProject\RedisProject.Business\obj\Debug\net5.0\ref\RedisProject.Business.dll
+C:\Users\Rezan Yıldız\source\repos\RedisProject\RedisProject.Business\obj\Debug\net5.0\RedisProject.Business.pdb

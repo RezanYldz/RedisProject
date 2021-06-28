@@ -1,0 +1,12 @@
+C:\Users\Rezan Yıldız\source\repos\RedisProject\RedisProject.DAL\bin\Debug\netcoreapp3.1\RedisProject.DAL.deps.json
+C:\Users\Rezan Yıldız\source\repos\RedisProject\RedisProject.DAL\bin\Debug\netcoreapp3.1\RedisProject.DAL.runtimeconfig.json
+C:\Users\Rezan Yıldız\source\repos\RedisProject\RedisProject.DAL\bin\Debug\netcoreapp3.1\RedisProject.DAL.runtimeconfig.dev.json
+C:\Users\Rezan Yıldız\source\repos\RedisProject\RedisProject.DAL\bin\Debug\netcoreapp3.1\RedisProject.DAL.dll
+C:\Users\Rezan Yıldız\source\repos\RedisProject\RedisProject.DAL\bin\Debug\netcoreapp3.1\RedisProject.DAL.pdb
+C:\Users\Rezan Yıldız\source\repos\RedisProject\RedisProject.DAL\obj\Debug\netcoreapp3.1\RedisProject.DAL.csprojAssemblyReference.cache
+C:\Users\Rezan Yıldız\source\repos\RedisProject\RedisProject.DAL\obj\Debug\netcoreapp3.1\RedisProject.DAL.AssemblyInfoInputs.cache
+C:\Users\Rezan Yıldız\source\repos\RedisProject\RedisProject.DAL\obj\Debug\netcoreapp3.1\RedisProject.DAL.AssemblyInfo.cs
+C:\Users\Rezan Yıldız\source\repos\RedisProject\RedisProject.DAL\obj\Debug\netcoreapp3.1\RedisProject.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Rezan Yıldız\source\repos\RedisProject\RedisProject.DAL\obj\Debug\netcoreapp3.1\RedisProject.DAL.dll
+C:\Users\Rezan Yıldız\source\repos\RedisProject\RedisProject.DAL\obj\Debug\netcoreapp3.1\RedisProject.DAL.pdb
+C:\Users\Rezan Yıldız\source\repos\RedisProject\RedisProject.DAL\obj\Debug\netcoreapp3.1\RedisProject.DAL.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Rezan Yıldız\source\repos\RedisProject\RedisProject.Entities\bin\Debug\net5.0\RedisProject.Entities.deps.json
+C:\Users\Rezan Yıldız\source\repos\RedisProject\RedisProject.Entities\bin\Debug\net5.0\RedisProject.Entities.dll
+C:\Users\Rezan Yıldız\source\repos\RedisProject\RedisProject.Entities\bin\Debug\net5.0\ref\RedisProject.Entities.dll
+C:\Users\Rezan Yıldız\source\repos\RedisProject\RedisProject.Entities\bin\Debug\net5.0\RedisProject.Entities.pdb
+C:\Users\Rezan Yıldız\source\repos\RedisProject\RedisProject.Entities\obj\Debug\net5.0\RedisProject.Entities.csprojAssemblyReference.cache
+C:\Users\Rezan Yıldız\source\repos\RedisProject\RedisProject.Entities\obj\Debug\net5.0\RedisProject.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rezan Yıldız\source\repos\RedisProject\RedisProject.Entities\obj\Debug\net5.0\RedisProject.Entities.AssemblyInfoInputs.cache
+C:\Users\Rezan Yıldız\source\repos\RedisProject\RedisProject.Entities\obj\Debug\net5.0\RedisProject.Entities.AssemblyInfo.cs
+C:\Users\Rezan Yıldız\source\repos\RedisProject\RedisProject.Entities\obj\Debug\net5.0\RedisProject.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Rezan Yıldız\source\repos\RedisProject\RedisProject.Entities\obj\Debug\net5.0\RedisProject.Entities.dll
+C:\Users\Rezan Yıldız\source\repos\RedisProject\RedisProject.Entities\obj\Debug\net5.0\ref\RedisProject.Entities.dll
+C:\Users\Rezan Yıldız\source\repos\RedisProject\RedisProject.Entities\obj\Debug\net5.0\RedisProject.Entities.pdb
